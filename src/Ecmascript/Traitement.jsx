@@ -122,7 +122,7 @@ const Traitement = () => {
             <h2>Question 4 - Tableau Tab </h2>
             {Tab.map((item, i) => (
                 <div key={i}>
-                    ID: {item.id} | Nom: {item.name} | Prix: {item.price}€ | Catégorie: {item.category}
+                    ID: {item.id} | Nom: {item.name} | Prix: {item.price}TND | Catégorie: {item.category}
                 </div>
             ))}
 
