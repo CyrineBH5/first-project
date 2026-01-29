@@ -149,7 +149,7 @@ const Traitement = () => {
                         <h4>Résultat trouvé :</h4>
                         <p>ID: {resultat.id}</p>
                         <p>Nom: {resultat.name}</p>
-                        <p>Prix: {resultat.price}€</p>
+                        <p>Prix: {resultat.price}TND</p>
                         <p>Catégorie: {resultat.category}</p>
                     </div>
                 )}
